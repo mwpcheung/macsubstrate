@@ -32,7 +32,7 @@ extern "C" {
 
 #define BSD_KERNEL_PRIVATE
 #include <machine/types.h>
-#include "bsd/machine/exec.h"
+#include <machine/exec.h>
 
 #include <stdio.h>
 #include <stdlib.h>
