@@ -1,0 +1,2 @@
+# macsubstrate
+cydiasubstrate for macos
